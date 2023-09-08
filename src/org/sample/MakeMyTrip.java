@@ -25,8 +25,7 @@ targetClick(close1);
 
 maxWindow();
 
-
-
+//exit the pgm
 }
 	
 	
