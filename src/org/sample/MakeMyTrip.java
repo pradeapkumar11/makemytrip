@@ -23,6 +23,9 @@ WebElement close1 = driver.findElement(By.xpath("//img[@id='second-img']"));
 	
 targetClick(close1);
 
+maxWindow();
+
+
 
 }
 	
