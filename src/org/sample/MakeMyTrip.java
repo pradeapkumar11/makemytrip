@@ -26,6 +26,8 @@ targetClick(close1);
 maxWindow();
 
 implicitWaiting(25);
+
+implicitWaiting(10111111);
 }
 	
 	
