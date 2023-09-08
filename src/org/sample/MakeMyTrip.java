@@ -25,7 +25,13 @@ targetClick(close1);
 
 maxWindow();
 
+<<<<<<< HEAD
 //exit the pgm
+=======
+implicitWaiting(25);
+
+implicitWaiting(10111111);
+>>>>>>> eda43252d75a5fc3aa7532950c6cf55401d2c7a4
 }
 	
 	
